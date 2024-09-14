@@ -15,7 +15,7 @@ Science Experiment Simulator is a Streamlit-based web application that provides 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/science-experiment-simulator.git
+   git clone https://github.com/lalomorales22/ScienceExperimentSimulator-Streamlit100.git
    cd science-experiment-simulator
    ```
 
